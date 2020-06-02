@@ -1,5 +1,7 @@
 # My Portfolio
 
+# 신선우 (19940417)
+
 ## 학력
 
 - UNIST (2013.03 ~ 2020.02)
@@ -9,21 +11,24 @@
 
 ## 이력/어학
 
+### 이력
+
 - 대학교 연구실 연구인턴십 (2019.06 ~ 2019.08)
 - 공군 항공기정비병 병장 만기전역 (2014.08 ~ 2016.08)
+
+### 어학
+
 - Toeic Spleaking : 140/200
 - Toeic Writing : 140/200
 
 <hr>
 
-## Programming Language
+## Language
 
 - C++, C, Python, JAVA
 - HTML, CSS, JavaScript (HTML, CSS, JavaScript 는 한번의 프로젝트에서 사용만 해보았습니다. -> Information Visualization)
 
 <hr>
-
-##
 
 ### 1. 연구 인턴십 및 졸업연구 (Indoor Localization with WiFi infrastructure)
 
@@ -50,7 +55,7 @@
 
 ### 5. System Programming and Operating System
 
-- C programming, Bit operation, Operating System concepts
+- C programming, Bit operation, Assembly, Operating System concepts
 - Text : Operating Systems: Three Easy Pieces (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau)
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - PintOS : <https://web.stanford.edu/class/cs140/projects/pintos/pintos.html#SEC_Contents>
