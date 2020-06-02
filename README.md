@@ -2,6 +2,8 @@
 
 # 신선우 (19940417)
 
+<img src="https://github.com/Sunny8747/Univ_Study_Public/blob/master/2020.6.2-3688.jpg" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="Me"></img>
+
 ## 학력
 
 - UNIST (2013.03 ~ 2020.02)
