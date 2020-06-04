@@ -34,20 +34,28 @@
 
 ### 1. 연구 인턴십 및 졸업연구 (Indoor Localization with WiFi infrastructure)
 
+- <https://github.com/Sunny8747/WIFI_Indoor_localization>
+
 - 논문리딩, 리뷰
 - 기존 논문 구현 및 발전
 
 ### 2. Graphics
+
+- <https://github.com/Sunny8747/Graphics>
 
 - OpenGL
 - 컴퓨터 그래픽에 관한 기초지식
 
 ### 3. Information Visualization
 
+- <https://github.com/Sunny8747/UNIST_InfoVis>
+
 - VAST Challenge Mini-Challenge 2 의 시각화 및 분석
 - InfoVis에 대한 개론 및 논문리딩
 
 ### 4. Mobile Computing
+
+- <https://github.com/Sunny8747/UNIST_Mobile_Computing>
 
 - 모바일에 관련된 전반적인 개론
 - 3가지 Application 과제
