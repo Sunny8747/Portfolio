@@ -34,42 +34,40 @@
 
 ### 1. 연구 인턴십 및 졸업연구 (Indoor Localization with WiFi infrastructure)
 
-- <https://github.com/Sunny8747/WIFI_Indoor_localization>
+- [See Detailed Report and Code](https://github.com/Sunny8747/WIFI_Indoor_localization "go link")
 
 - 논문리딩, 리뷰
-- 기존 논문 구현 및 발전
+- 기존 논문 **구현** 및 **발전**
+- Data Collecting and Analysis
 
 ### 2. Graphics
 
-- <https://github.com/Sunny8747/Graphics>
+- [See Detailed Report and Code](https://github.com/Sunny8747/Graphics "go link")
 
-- OpenGL
+- **OpenGL**
 - 컴퓨터 그래픽에 관한 기초지식
 
 ### 3. Information Visualization
 
-- <https://github.com/Sunny8747/UNIST_InfoVis>
+- [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_InfoVis "go link")
 
-- VAST Challenge Mini-Challenge 2 의 시각화 및 분석
+- VAST Challenge Mini-Challenge 2 의 **시각화** 및 **분석**
 - InfoVis에 대한 개론 및 논문리딩
 
 ### 4. Mobile Computing
 
-- <https://github.com/Sunny8747/UNIST_Mobile_Computing>
+- [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_Mobile_Computing "go link")
 
 - 모바일에 관련된 전반적인 개론
-- 3가지 Application 과제
+- 3가지 Android Application 과제
   1. 모바일 센서를 이용한 사람의 움직임 판별
   2. 모바일 센서를 이용한 실내에서 유저가 이동하는 경로 추정
   3. 사람의 행동과 위치추적기능을 포함시킨 알람어플리케이션
 
 ### 5. System Programming and Operating System
 
-- <https://github.com/Sunny8747/UNIST_SP_OS>
+- [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_SP_OS "go link")
 
 - C programming, Bit operation, Assembly, Operating System concepts
-- Text : Operating Systems: Three Easy Pieces (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau)
-- http://pages.cs.wisc.edu/~remzi/OSTEP/
-- PintOS : <https://web.stanford.edu/class/cs140/projects/pintos/pintos.html#SEC_Contents>
-- Project 1 :
-- Project 2 :
+- [Text : Operating Systems: Three Easy Pieces (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau)](http://pages.cs.wisc.edu/~remzi/OSTEP/ "go link")
+- [PintOS](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html#SEC_Contents "go link")
