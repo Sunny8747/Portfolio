@@ -24,8 +24,8 @@
 
 ### 어학
 
-- Toeic Spleaking : 140/200
-- Toeic Writing : 140/200
+- Toeic Spleaking : 140/200 lv6
+- Toeic Writing : 140/200 lv7
 
 <hr>
 
