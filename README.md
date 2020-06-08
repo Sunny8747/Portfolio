@@ -2,11 +2,15 @@
 
 # 신선우 (19940417)
 
-<img src="https://github.com/Sunny8747/Univ_Study_Public/blob/master/2020.6.2-3688.jpg" width="30%" title="px(픽셀) 크기 설정" alt="Me"></img>
+<img src="https://github.com/Sunny8747/Univ_Study_Public/blob/master/2020.6.2-3688.jpg" width="30%" title="증명사진" alt="Me"></img>
 
 ## 학력
 
 - UNIST (2013.03 ~ 2020.02)
+  - 주전공 컴퓨터공학과
+  - 부전공 기계공학과
+  - 기계공학과 -> 컴퓨터공학과 전과 (2017.8)
+  - 공군 항공기정비병 병장 만기제대 (2014.08 ~ 2016.08)
 - 청도고등학교 (2010.03 ~ 2013.02)
 
 <hr>
