@@ -44,6 +44,20 @@
 - 기존 논문 **구현** 및 **발전**
 - Data Collecting and Analysis
 
+* 샘플 경로 데이터 분석중 생성되는 패스 개수 추적
+
+- <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/sample.GIF" width="50%" height="40%" title="Number of Path" alt="app_result_image"></img>
+
+* 실험결과 경로추정
+
+- <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_of_path.png" width="70%" height="60%" title="Path Result" alt="result of path finding program"></img>
+
+* 실험결과의 CDF그래프
+
+* <img src="https://github.com/Sunny8747/WIFI_Indoor_localization/blob/master/result_overlap_Final.GIF" width="70%" height="60%" title="Result CDF" alt="result of path finding program"></img>
+
+<hr>
+
 ### 2. Graphics
 
 - [See Detailed Report and Code](https://github.com/Sunny8747/Graphics "go link")
@@ -51,12 +65,19 @@
 - **OpenGL**
 - 컴퓨터 그래픽에 관한 기초지식
 
+- <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/MIP1.GIF" width="30%" title="MIP" alt="MIP"></img>
+- <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/alpha2.GIF" width="30%" title="Alpha blending" alt="Alpha blending"></img>
+- <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign2/images/t-c-level6.GIF" width="30%" title="Toon Shading" alt="Toon Shading"></img>
+
 ### 3. Information Visualization
 
 - [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_InfoVis "go link")
 
 - VAST Challenge Mini-Challenge 2 의 **시각화** 및 **분석**
 - InfoVis에 대한 개론 및 논문리딩
+
+- <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="Building data - line chart" alt="building"></img>
+- <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="Proxy data - gantt chart" alt="gantt"></img>
 
 ### 4. Mobile Computing
 
