@@ -88,11 +88,3 @@
   1. 모바일 센서를 이용한 사람의 움직임 판별
   2. 모바일 센서를 이용한 실내에서 유저가 이동하는 경로 추정
   3. 사람의 행동과 위치추적기능을 포함시킨 알람어플리케이션
-
-### 5. System Programming and Operating System
-
-- [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_SP_OS "go link")
-
-- C programming, Bit operation, Assembly, Operating System concepts
-- [Text : Operating Systems: Three Easy Pieces (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau)](http://pages.cs.wisc.edu/~remzi/OSTEP/ "go link")
-- [PintOS](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html#SEC_Contents "go link")
