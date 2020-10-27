@@ -29,7 +29,7 @@
 ## Language
 
 -   C++ : 사용기간 2년
-    -   OpenGL
+    -   OpenGL - 사용기간 6개월
 -   C : 사용기간 1년
 -   Python : 사용기간 2년
     -   PySide2 - python porting version, GUI Programming
