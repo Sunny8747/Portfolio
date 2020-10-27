@@ -2,8 +2,6 @@
 
 # 신선우 (19940417)
 
-<img src="https://github.com/Sunny8747/Univ_Study_Public/blob/master/2020.6.2-3688.jpg" width="30%" title="증명사진" alt="Me"></img>
-
 ## 학력
 
 -   UNIST (2013.03 ~ 2020.02)
@@ -11,7 +9,6 @@
     -   부전공 기계공학과
     -   기계공학과 -> 컴퓨터공학과 전과 (2017.8)
     -   공군 항공기정비병 병장 만기제대 (2014.08 ~ 2016.08)
--   청도고등학교 (2010.03 ~ 2013.02)
 
 <hr>
 
@@ -94,7 +91,7 @@
 
 -   [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_InfoVis "go link")
 
--   VAST Challenge Mini-Challenge 2 의 **시각화** 및 **분석**
+-   2016 VAST Challenge Mini-Challenge 2 의 **시각화** 및 **분석**
 -   InfoVis에 대한 개론 및 논문리딩
 
 -   <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="Building data - line chart" alt="building"></img>
