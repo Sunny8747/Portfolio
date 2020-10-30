@@ -47,7 +47,7 @@
 
 -   2020.07.27 ~ updating
 
--   [See Detailed Report and Code](https://github.com/Sunny8747/WIFI_Indoor_localization "go link") // gist link, notion page로 변경해야함
+-   [See Detailed Discription and Code](https://www.notion.so/fec21fbb1b374d92a296c14bf9fd4673 "go link")
 
 -   Qt Framework 를 이용한 GUI 구현
 -   Web crawling을 이용한 유저가 원하는 내용 추출
