@@ -84,7 +84,6 @@
 -   [See Detailed Report and Code](https://github.com/Sunny8747/Graphics "go link")
 
 -   **OpenGL**
--   컴퓨터 그래픽에 관한 기초지식
 
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/MIP1.GIF" width="30%" title="MIP" alt="MIP"></img>
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/alpha2.jpg" width="30%" title="Alpha blending" alt="Alpha blending"></img>
