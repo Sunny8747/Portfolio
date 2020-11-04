@@ -84,6 +84,7 @@
 -   [See Detailed Report and Code](https://github.com/Sunny8747/Graphics "go link")
 
 -   **OpenGL**
+-   그래픽스 파이프라인 및 전체적인 그래픽스에 대한 지식
 
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/MIP1.GIF" width="30%" title="MIP" alt="MIP"></img>
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/alpha2.jpg" width="30%" title="Alpha blending" alt="Alpha blending"></img>
