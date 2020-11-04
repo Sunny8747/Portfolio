@@ -87,7 +87,7 @@
 -   컴퓨터 그래픽에 관한 기초지식
 
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/MIP1.GIF" width="30%" title="MIP" alt="MIP"></img>
--   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/alpha2.GIF" width="30%" title="Alpha blending" alt="Alpha blending"></img>
+-   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign4/alpha2.jpg" width="30%" title="Alpha blending" alt="Alpha blending"></img>
 -   <img src="https://github.com/Sunny8747/Graphics/blob/master/Assign2/images/t-c-level6.GIF" width="30%" title="Toon Shading" alt="Toon Shading"></img>
 
 <hr>
