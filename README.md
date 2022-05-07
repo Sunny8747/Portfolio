@@ -28,18 +28,10 @@
 
 ## Language
 
--   C++ : 사용기간 2년
-    -   OpenGL - 사용기간 6개월
--   C : 사용기간 1년
--   Python : 사용기간 2년
-    -   PySide2 - QT Framework python porting version, GUI Programming
-    -   BeautifulSoup - 게임 컨텐츠 add-on 구동에 필요한 데이터를 web page scrapping 하기위해 사용
-    -   networkx - 졸업연구 에서 path, graph building에 사용
-    -   numpy - 졸업연구에서 수집된 wifi RSSI data를 분류, 분석을 위해 사용
--   Qt Framework : 사용기간 4개월
--   JAVA : 사용기간 6개월
-    -   Android Studio - 간단한 android application 제작에 사용
--   HTML, CSS, JavaScript : 사용기간 2개월
+-   C++ : Used 2Y~
+-   C : Used 1년
+-   Python : Used 2년
+    -   PyQT, Graph, DataAnalysis
 
 <hr>
 
@@ -101,17 +93,5 @@
 
 -   <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="Building data - line chart" alt="building"></img>
 -   <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="Proxy data - gantt chart" alt="gantt"></img>
-
-<hr>
-
-### 5. Mobile Computing
-
--   [See Detailed Report and Code](https://github.com/Sunny8747/UNIST_Mobile_Computing "go link")
-
--   모바일에 관련된 전반적인 개론
--   3가지 기본적인 Android Application
-    1. 모바일 센서를 이용한 사람의 동작(앉기, 일어서기, 걷기, 달리기, 계단오르내리기) 판별
-    2. 모바일 센서를 이용한 실내에서 유저가 이동하는 경로 추정(rotation sensor, walking estimation 이용 )
-    3. 기본적인 센서 데이터를 연동한 알람 어플(뛰고있는 동안 알람 미뤄지는 기능, 특정 wifi 구역 안에서만 알람 작동)
 
 <hr>
